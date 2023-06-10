@@ -2,8 +2,6 @@
 ![Build Status: Ubuntu](https://github.com/hubotio/hubot/actions/workflows/nodejs-ubuntu.yml/badge.svg)
 ![Build Status: Window](https://github.com/hubotio/hubot/actions/workflows/nodejs-windows.yml/badge.svg)
 
-[![Coverage Status](https://coveralls.io/repos/github/hubotio/hubot/badge.svg?branch=master)](https://coveralls.io/github/hubotio/hubot?branch=master)
-
 # Hubot
 
 Hubot is a framework to build chat bots, modeled after GitHub's Campfire bot of the same name, hubot.
@@ -20,4 +18,3 @@ are building your own bot. But if you do, check out [CONTRIBUTING.md](CONTRIBUTI
 ## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
-`
